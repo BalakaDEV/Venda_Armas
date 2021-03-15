@@ -1,2 +1,24 @@
 # blk-Venda_Armas_NPC
-Venda de armas por NPC
+
+➢ **Venda de armas por NPC**
+- Fivem
+- Framework: vRPeX
+- MS: 0.1
+- Suporte e créditos: Balaka#0001
+
+
+➢ **Preview + Funcionamento**
+
+[![Preview + Funcionamento ](http://img.youtube.com/vi/ZHezsieV44A/0.jpg)](http://www.youtube.com/watch?v=ZHezsieV44A "Venda De Armas")
+
+
+➢ **Instalação:**
+
+- Coloque a pasta venda_armas no diretorio das resources do seu servidor.
+- Faça o start do script em seu server.cfg [start venda_armas]
+
+➢ **Observação:**
+
+- **Script feito com o intuito de ajudar cidades que estão começando e não tem um grande contingente na parte ilegal do servidor**
+
+- **Caso a arma não apareça em seu inventario é porque você deve criar o item para o mesmo**```
