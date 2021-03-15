@@ -9,7 +9,7 @@
 
 ➢ **Preview + Funcionamento**
 
-[![Preview + Funcionamento ](http://img.youtube.com/vi/ZHezsieV44A/0.jpg)](http://www.youtube.com/watch?v=ZHezsieV44A "Venda De Armas")
+[![Venda de arma por NPC](http://img.youtube.com/vi/5e1nrkyeLRk/0.jpg)](http://www.youtube.com/watch?v=5e1nrkyeLRk "Preview ")
 
 
 ➢ **Instalação:**
@@ -21,4 +21,4 @@
 
 - **Script feito com o intuito de ajudar cidades que estão começando e não tem um grande contingente na parte ilegal do servidor**
 
-- **Caso a arma não apareça em seu inventario é porque você deve criar o item para o mesmo**```
+- **Caso a arma não apareça em seu inventario é porque você deve criar o item para o mesmo**
