@@ -90,17 +90,6 @@ Citizen.CreateThread(function()
   end
 end)
 -----------------------------------------------------------------------------------------------------------------------------------------
--- INICIANDO O ROUBO
------------------------------------------------------------------------------------------------------------------------------------------
-RegisterNetEvent("iniciandoregistradora")
-AddEventHandler("iniciandoregistradora",function(head,x,y,z)
-  segundos = 10
-  andamento = true
-  SetEntityHeading(PlayerPedId(),head)
-  SetEntityCoords(PlayerPedId(),x,y,z-1,false,false,false,false)
-  TriggerEvent('cancelando',true)
-end)
------------------------------------------------------------------------------------------------------------------------------------------
 -- PED PART
 -----------------------------------------------------------------------------------------------------------------------------------------
 local freeForAll = 0
